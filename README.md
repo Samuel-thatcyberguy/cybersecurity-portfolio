@@ -40,8 +40,20 @@ Built custom dashboards for user behavior analytics. Triggered alerts based on r
 
 ### 3. [🛡️ Internal Network Defense Simulation Lab](./Projects/Network_Defense_Lab.md)
 Created lab simulating enterprise traffic with domain controller + clients. Detected lateral movement using ELK + Event Logs.
+### 4. 📌 Daily Log Review Practice (Simulated Enterprise Logs)
+Practiced reviewing Windows Event Logs and Sysmon alerts. Maintained log triage notebook and built Tier-1 analyst routines.
 
----
+### 5. 📌 MITRE ATT&CK Hunt Campaigns
+Simulated weekly red team campaigns. Mapped findings to ATT&CK, documented hunt results, and practiced proactive detection.
+
+### 6. 📌 Endpoint Security Monitoring (Winlogbeat + Elastic)
+Forwarded endpoint logs to ELK stack. Created visualizations and alerts for suspicious PowerShell and process anomalies.
+
+### 7. 📌 DNS Anomaly Detection Lab
+Analyzed DNS traffic to identify tunneling attempts and beaconing. Built detection rules and enriched with threat intel.
+
+### 8. 📌 Email Threat Simulation Lab
+Simulated phishing emails. Reviewed email headers, DKIM/SPF results, and attachments. Tracked user response.
 
 ## 📚 Certifications
 
@@ -55,6 +67,6 @@ Created lab simulating enterprise traffic with domain controller + clients. Dete
 
 - 📧 Samuelibijura@gmail.com  
 - 📍 Lagos, Nigeria  
-- 🧑‍💼 Available for remote and UK-based Blue Team roles  
+- 🧑‍💼 Available for remote, USA and UK-based Blue Team roles  
 
 > ⚠️ This portfolio is built for continuous improvement. Feel free to explore or connect with me!
