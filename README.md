@@ -57,9 +57,9 @@ Simulated phishing emails. Reviewed email headers, DKIM/SPF results, and attachm
 
 ## 📚 Certifications
 
-- Cisco Certified CyberOps Associate ✅  
-- IBM Cybersecurity Analyst (In Progress)  
-- CompTIA Security+ (Planned – Sept 2025)  
+- Cisco Certified CyberOps Associate ✅    
+- CompTIA Security+ (In progress)
+- Cybersec First Responder( In View) 
 
 ---
 
